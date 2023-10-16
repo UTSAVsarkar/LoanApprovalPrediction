@@ -1,3 +1,5 @@
+App link: https://predictloanstatus.streamlit.app/
+
 Loan Approval Prediction: The project's primary objective is to predict loan approval outcomes, helping lenders and financial institutions make data-driven decisions on whether to approve or deny loan applications.
 
 Data-Driven Approach: It leverages a dataset with various applicant attributes and financial information, enabling the use of data analysis and machine learning techniques to assess the likelihood of loan approval.
